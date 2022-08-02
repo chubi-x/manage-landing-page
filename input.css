@@ -45,7 +45,7 @@ body {
     width: 24px;
     height: 2px;
     background: black;
-    transform: rotate(0);
+    transform: rotate(9);
     transition: all 0.5s;
 }
 
